@@ -9,5 +9,5 @@ export const MainSection = styled.main`
   margin: 200px auto 0 auto;
   border: 2px solid lightgreen;
   border-radius: 10px;
-  background-color: black;
+  background-color: purple;
 `;
