@@ -11,21 +11,21 @@ export const ButtonContainer = styled.div`
     border: 2px solid white;
     border-radius: 10px;
     cursor: pointer;
-    color: black;
+    color: blue;
   }
   :hover:nth-child(2) {
     background-color: #e9ec0d;
     border: 2px solid white;
     border-radius: 10px;
     cursor: pointer;
-    color: black;
+    color: blueviolet;
   }
   :hover:nth-child(3) {
     background-color: #ec0d0d;
     border: 2px solid white;
     border-radius: 10px;
     cursor: pointer;
-    color: black;
+    color: blue;
   }
 `;
 
@@ -34,7 +34,7 @@ export const ButtonFeedback = styled.button`
   padding: 10px;
   font-size: medium;
   border: 2px solid lightgreen;
-  background-color: black;
+  background-color: blue;
   color: white;
   border-radius: 10px;
 `;
